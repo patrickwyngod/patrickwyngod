@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/Based%20in-USA%20🇺🇸-blue?style=for-the-badge" alt="location" />
 </p>
 
-<!-- ====================== SOCIAL LINKS ====================== -->
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
 </div>
 
 ---
@@ -269,10 +261,6 @@ sequenceDiagram
 <div align="center">
 
 ### 🤝 Let's build something great together
-
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,50:1565c0,100:0d47a1&height=120&section=footer" width="100%"/>
 
 <sub>⭐️ From <a href="https://github.com/your-username">Patrick</a> — thanks for stopping by!</sub>
